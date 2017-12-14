@@ -1,0 +1,2 @@
+for i in range4(int(input("you want number")))
+    print("* " * i)
